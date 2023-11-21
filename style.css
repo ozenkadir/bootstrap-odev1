@@ -1,0 +1,17 @@
+.jumbotron{
+    text-align: center;
+}
+
+button{
+    background-color:   cornflowerblue;
+    color: white;
+    border-radius: 5px;
+}
+
+h5{color: blueviolet;}
+
+h4{color: goldenrod;}
+body{background-color: #E9ECEF;}
+
+h1{text-align: center;color: blueviolet;}
+
